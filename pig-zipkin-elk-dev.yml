@@ -17,3 +17,4 @@ zipkin:
       max-requests: 64
       index-shards: 5
       index-replicas: 1
+      

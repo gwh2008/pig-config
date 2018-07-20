@@ -70,7 +70,7 @@ hystrix:
           thread:
             timeoutInMilliseconds: 60000
 
-#监控短点配置
+#监控短点配置 
 management:
   security:
     enabled: false

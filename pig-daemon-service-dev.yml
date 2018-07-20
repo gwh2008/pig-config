@@ -11,3 +11,4 @@ spring:
     zookeeper:
       server-lists: 10.1.11.177:2181
       namespace: pig-daemon
+      
