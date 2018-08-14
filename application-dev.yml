@@ -13,7 +13,7 @@ spring:
     remote: false        #cachecloud 获取
     host: 10.1.11.177
     port: 6379
-    password: 1qaz@WSX
+    password: 
   rabbitmq:
     host: 127.0.0.1
     port: 5672
